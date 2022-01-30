@@ -1,6 +1,6 @@
 # Covid-19
 
-Explore data with SQL and visualize in tableau
+Using SQL to do some Data Exploration and visualize the data in Tableau
 
 Skill used: Joins, Aggregate Functions, Creating Views, Windows Functions, Temp Tables
 
